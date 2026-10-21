@@ -1,0 +1,6 @@
+{
+  "summary": "Piano di implementazione completo per OriginStudio Lab: ambiente desktop-style multi-pannello per importazione tabelle TXT/CSV, assegnazione colonne X/Y, plotting multi-serie personalizzabile, strumento interattivo Remove Bad Data Points sincronizzato con le tabelle, e motore di Curve Fitting (Lineare, Polinomiale grado N, Spline Cubica) con ricampionamento su N punti nell'intervallo [C, D].",
+  "updatedAt": "2026-10-20T14:33:43.304018348Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

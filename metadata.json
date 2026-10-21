@@ -1,0 +1,6 @@
+{
+  "name": "OriginStudio Lab",
+  "description": "Ambiente scientifico per analisi dati, plotting multi-colonna, rimozione interattiva di punti errati e curve fitting su intervalli personalizzati [C, D] in stile OriginLab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
